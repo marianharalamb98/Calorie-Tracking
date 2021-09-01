@@ -1,0 +1,12 @@
+{
+  "name": "CalorieTracking",
+  "displayName": "CalorieTracking",
+  "expo": {
+    "name": "CalorieTracking",
+    "slug": "CalorieTracking",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
